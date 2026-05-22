@@ -3,7 +3,7 @@ import datetime
 
 # 1. 페이지 레이아웃 및 환경 설정
 st.set_page_config(
-    page_title="영한(Young) 더치페이 계산기 Pro",
+    page_title="멋진한씨 더치페이 계산기 Pro",
     page_icon="💸",
     layout="wide",
     initial_sidebar_state="expanded"
